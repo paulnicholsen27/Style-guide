@@ -15,8 +15,11 @@ A user story is a breif script about who would use your app "As a _role_, I want
 ## Look & Feel
 
 Look and feel encompasses personality, mood, and tone. 
+
 Personality tends to be a human-like characteristic such as "friendly" or "professional".
+
 Mood is the overall feeling of the app like "elegant" or "minimalistic".
+
 Tone here is referring to tone of voice which can be captured in slogans and taglines ("Just Do It"). 
 
 Deciding your apps personality, mood, and tone should align with your purpose and user story.  You will choose colors and fonts that align with personality, mood, and tone you are going for.
@@ -45,8 +48,11 @@ One of the most difficult parts of typography can be choosing a good font pairin
 ## Color
 
 Web Design color schemes are vastly different than choosing color schemes in other design fields. A good starter rule of thumb is to start with a scheme of 5 colors. 
+
 The first 2 colors should be your base color and they should be contrasting. Typically these are white and light grey, white and blue, white and dark grey, but you can get more daring if you are color savvy. 
+
 Next you can choose 1 neutral tone between those two colors to provide a slight variety. 
+
 Last you can choose 2 pop colors. These are for drawing user attention to specific parts of the page. They are designed to navigate your user through the site so use them strategically. For pop colors I recommend using [Adobe Kuler](https://color.adobe.com/create/color-wheel/?base=2&rule=Complementary&selected=0&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.7,0.4776229026641497,0.16164028344175027,1,0.6282422673045402,0.09999999999999998,1,0.5869358525606003,0,0,0.4232414315308233,0.7,0,0.6046306164726047,1&swatchOrder=0,1,2,3,4) and using their color relationships (analogous, monochromatic, triad, complementary, compound, and shades) to choose colors that work well together. 
 
 ![Example Color Scheme](https://i.pinimg.com/564x/db/cb/2c/dbcb2cf72ecabc0ff22efb48490fdd2e.jpg "Example Color Scheme")
