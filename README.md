@@ -16,7 +16,7 @@ A user story is a breif script about who would use your app "As a _role_, I want
 
 Look and feel encompasses personality, mood, and tone. 
 Personality tends to be a human-like characteristic such as "friendly" or "professional".
-Mood is the overall feeling of the app like elegant or minimalistic.
+Mood is the overall feeling of the app like "elegant" or "minimalistic".
 Tone here is referring to tone of voice which can be captured in slogans and taglines ("Just Do It"). 
 
 Deciding your apps personality, mood, and tone should align with your purpose and user story.  You will choose colors and fonts that align with personality, mood, and tone you are going for.
